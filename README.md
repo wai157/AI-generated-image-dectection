@@ -2,13 +2,13 @@
 
 ## Methods
 
-ResNet50 [arxiv](https://arxiv.org/abs/1512.03385)
+ResNet50 [[arxiv]](https://arxiv.org/abs/1512.03385)
 ![ResNet50 Model Architecture](./readme_images/resnet50.png)
 
-Single Simple Patch (SSP) [arxiv](https://arxiv.org/abs/2402.01123)
+Single Simple Patch (SSP) [[arxiv]](https://arxiv.org/abs/2402.01123)
 ![SSP Model Architecture](./readme_images/ssp.png)
 
-GenDet Framework using Transformer Encoder [arxiv](https://arxiv.org/abs/2312.08880v1)
+GenDet Framework using Transformer Encoder [[arxiv]](https://arxiv.org/abs/2312.08880v1)
 ![GenDet Framework](./readme_images/gendet.png)
 
 ## Data
