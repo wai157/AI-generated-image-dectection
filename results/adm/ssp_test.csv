@@ -1,0 +1,8 @@
+dataset,acc
+adm,72.8
+biggan,52.0
+glide,50.6
+midjourney,49.7
+sdv5,50.4
+vqdm,50.4
+wukong,50.6
